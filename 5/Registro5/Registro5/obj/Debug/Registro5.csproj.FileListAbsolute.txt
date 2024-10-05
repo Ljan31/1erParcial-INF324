@@ -1,0 +1,15 @@
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\bin\Debug\Registro5.exe.config
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\bin\Debug\Registro5.exe
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\bin\Debug\Registro5.pdb
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.csprojResolveAssemblyReference.cache
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.Form1.resources
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.Properties.Resources.resources
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.csproj.GenerateResource.Cache
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.exe
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.pdb
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.Form2.resources
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.Form3.resources
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.Form4.resources
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.Form5.resources
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.UpdP.resources
+E:\INF - 324\Visual Studio proy\Registro5\Registro5\obj\Debug\Registro5.UpdC.resources
